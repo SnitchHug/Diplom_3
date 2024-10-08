@@ -1,7 +1,7 @@
 import allure
 import url
 
-from locators.LoginPageLocators import LoginLocators
+from locators.login_page_locators import LoginLocators
 from pages.base_page import BasePage
 
 

@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="970bbd0b-a81c-48ab-8cf5-15b792450e74" name="Changes" comment="" />
+    <list default="true" id="970bbd0b-a81c-48ab-8cf5-15b792450e74" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Diplom_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diplom_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/AccountPageLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/account_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/FeedPageLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/feed_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/ForgotPasswordLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/forgot_password_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/LoginPageLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/login_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/MainPageLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/main_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/ResetPasswordLocators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/reset_password_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/account_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/account_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/feed_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/feed_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forgot_password_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/forgot_password_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/reset_password_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/reset_password_page.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,19 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python tests.pytest for tests.test_main_page.TestMainPage.test_add_ingredient_to_order.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in register_user.py.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.pytest in tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.register_user.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PyProjects/dipla&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python tests.pytest for tests.test_main_page.TestMainPage.test_add_ingredient_to_order.executor": "Run",
+    "Python tests.pytest in register_user.py.executor": "Debug",
+    "Python tests.pytest in tests.executor": "Run",
+    "Python.register_user.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "D:/PyProjects/Diplom/Diplom_3",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PyProjects\Diplom\Diplom_3" />

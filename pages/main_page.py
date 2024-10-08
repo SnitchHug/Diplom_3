@@ -1,7 +1,7 @@
 import allure
 import url
 
-from locators.MainPageLocators import MainLocators
+from locators.main_page_locators import MainLocators
 from pages.base_page import BasePage
 
 
@@ -80,6 +80,7 @@ class MainPage(BasePage):
         order_id = element.text
         return order_id
 
+    @allure.step("Создание заказа")
     def create_order(self):
         self.drag_and_drop_ingredient_bun()
         self.drag_and_drop_ingredient_souses()
